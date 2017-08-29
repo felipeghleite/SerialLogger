@@ -1,0 +1,18 @@
+D:\Data\visual studio 2015\Projects\SerialLogger1_0\SerialLogger1_0\obj\Debug\SerialLogging.Form1.resources
+D:\Data\visual studio 2015\Projects\SerialLogger1_0\SerialLogger1_0\obj\Debug\SerialLogger1_0.Properties.Resources.resources
+D:\Data\visual studio 2015\Projects\SerialLogger1_0\SerialLogger1_0\obj\Debug\SerialLogger1_0.csproj.GenerateResource.Cache
+D:\Data\visual studio 2015\Projects\SerialLogger1_0\SerialLogger1_0\bin\Debug\SerialLogger1_0.exe.config
+D:\Data\visual studio 2015\Projects\SerialLogger1_0\SerialLogger1_0\bin\Debug\SerialLogger1_0.exe
+D:\Data\visual studio 2015\Projects\SerialLogger1_0\SerialLogger1_0\bin\Debug\SerialLogger1_0.pdb
+D:\Data\visual studio 2015\Projects\SerialLogger1_0\SerialLogger1_0\obj\Debug\SerialLogger1_0.exe
+D:\Data\visual studio 2015\Projects\SerialLogger1_0\SerialLogger1_0\obj\Debug\SerialLogger1_0.pdb
+D:\Data\visual studio 2015\Projects\SerialLogger1_0\SerialLogger1_0\obj\Debug\SerialLogger1_0.csprojResolveAssemblyReference.cache
+C:\Users\fleite\Documents\Projetos\Workspace\workspace-visualstudio\SerialLogger1_0\SerialLogger1_0\bin\Debug\SerialLogger1_0.exe.config
+C:\Users\fleite\Documents\Projetos\Workspace\workspace-visualstudio\SerialLogger1_0\SerialLogger1_0\bin\Debug\SerialLogger1_0.exe
+C:\Users\fleite\Documents\Projetos\Workspace\workspace-visualstudio\SerialLogger1_0\SerialLogger1_0\bin\Debug\SerialLogger1_0.pdb
+C:\Users\fleite\Documents\Projetos\Workspace\workspace-visualstudio\SerialLogger1_0\SerialLogger1_0\obj\Debug\SerialLogger1_0.csprojResolveAssemblyReference.cache
+C:\Users\fleite\Documents\Projetos\Workspace\workspace-visualstudio\SerialLogger1_0\SerialLogger1_0\obj\Debug\SerialLogging.Form1.resources
+C:\Users\fleite\Documents\Projetos\Workspace\workspace-visualstudio\SerialLogger1_0\SerialLogger1_0\obj\Debug\SerialLogger1_0.Properties.Resources.resources
+C:\Users\fleite\Documents\Projetos\Workspace\workspace-visualstudio\SerialLogger1_0\SerialLogger1_0\obj\Debug\SerialLogger1_0.csproj.GenerateResource.Cache
+C:\Users\fleite\Documents\Projetos\Workspace\workspace-visualstudio\SerialLogger1_0\SerialLogger1_0\obj\Debug\SerialLogger1_0.exe
+C:\Users\fleite\Documents\Projetos\Workspace\workspace-visualstudio\SerialLogger1_0\SerialLogger1_0\obj\Debug\SerialLogger1_0.pdb
